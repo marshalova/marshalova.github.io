@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.50a5162f.css",
-    "main.js": "/static/js/main.806627cb.js",
-    "static/media/work3-sso.png": "/static/media/work3-sso.7396988b3717c69b1397.png",
-    "static/media/work4-appfarm.png": "/static/media/work4-appfarm.fe611f56661e36e201cd.png",
-    "static/media/work1-vmcloud.png": "/static/media/work1-vmcloud.fcaf5ffde1912e9f4eb4.png",
-    "static/media/work2-vmdocs.png": "/static/media/work2-vmdocs.2409d5dcd709030ed320.png",
-    "static/media/avatar.png": "/static/media/avatar.4f2f20ae6267059f0a86.png",
+    "main.css": "/static/css/main.e0b75887.css",
+    "main.js": "/static/js/main.f3a40a1d.js",
+    "static/media/SSO.png": "/static/media/SSO.5b7b6f257c08b06a4bce.png",
+    "static/media/appfarm.png": "/static/media/appfarm.47cda9d138810018c368.png",
+    "static/media/VMDoc.png": "/static/media/VMDoc.82a36923be0517866180.png",
+    "static/media/VMCloud.png": "/static/media/VMCloud.fc414e14222a1ffbb223.png",
+    "static/media/vera.png": "/static/media/vera.723aeeb2a678c78ca482.png",
+    "static/media/sso.png": "/static/media/sso.7922a35e935b0a0bbfa3.png",
+    "static/media/docs.png": "/static/media/docs.13e0581274dd7fbb3d22.png",
+    "static/media/vmcloud.png": "/static/media/vmcloud.00eff18f1efbeeffd6fb.png",
     "index.html": "/index.html",
-    "main.50a5162f.css.map": "/static/css/main.50a5162f.css.map",
-    "main.806627cb.js.map": "/static/js/main.806627cb.js.map"
+    "main.e0b75887.css.map": "/static/css/main.e0b75887.css.map",
+    "main.f3a40a1d.js.map": "/static/js/main.f3a40a1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a5162f.css",
-    "static/js/main.806627cb.js"
+    "static/css/main.e0b75887.css",
+    "static/js/main.f3a40a1d.js"
   ]
 }
