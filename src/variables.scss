@@ -1,0 +1,20 @@
+$font-color: #1E1A3b;
+$accent-color: #1E1A3B;
+
+@mixin web {
+  @media (min-width: 1280px) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (max-width: 1280px) {
+    @content;
+  }
+}
+
+@mixin mobile {
+  @media (max-width: 834px) {
+    @content;
+  }
+}

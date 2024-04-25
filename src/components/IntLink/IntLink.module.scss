@@ -1,0 +1,16 @@
+@import "/src/variables";
+
+.IntLink {
+  text-decoration: none;
+  background: $font-color;
+  color: #FFFFFF;
+  border-radius: 12px;
+  padding: 6px 10px;
+  display: flex;
+  gap: 4px;
+
+  &:hover {
+    background-color: transparent;
+    color: $font-color;
+  }
+}

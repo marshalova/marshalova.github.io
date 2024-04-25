@@ -1,0 +1,25 @@
+@import "src/variables";
+
+.WorkGallery {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  width: 100%;
+
+  &Header {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+  }
+
+  &Body {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: calc(50% - 12px) calc(50% - 12px);
+    gap: 24px;
+
+    @include mobile {
+      grid-template-columns: 100%;
+    }
+  }
+}

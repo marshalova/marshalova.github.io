@@ -1,0 +1,23 @@
+@import "../../variables";
+
+.Footer {
+  padding: 24px;
+  background-color: #FFFFFF;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+
+  &Slogan {
+    font-size: 20px;
+    line-height: 20px;
+    color: $font-color;
+    font-weight: 500;
+  }
+
+  &Links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+}

@@ -1,0 +1,76 @@
+@import "src/variables";
+
+.ProjectDetails {
+  &Back {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &Title {
+    margin: 0;
+    font-size: 40px;
+    color: $font-color;
+    text-align: center;
+    font-weight: 600;
+  }
+
+  &Pic {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+
+  &List {
+    margin: 0;
+  }
+
+  &Challenge {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    &Item {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+  }
+
+  &Block {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    &Header {
+      margin: 0;
+      font-size: 20px;
+      line-height: 32px;
+      color:$font-color;
+      font-weight: 500;
+    }
+
+    &Body {
+      font-size: 16px;
+      line-height: 28px;
+      color:$font-color;
+      font-weight: 400;
+
+      & a {
+        color: #0075FF;
+      }
+    }
+  }
+
+  &Other {
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: calc(50% - 12px) calc(50% - 12px);
+    gap: 24px;
+
+
+    @include mobile {
+      grid-template-columns: 100%;
+    }
+  }
+}
