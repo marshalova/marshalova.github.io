@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5ebe00d.css",
-    "main.js": "/static/js/main.067e1795.js",
+    "main.css": "/static/css/main.179b181a.css",
+    "main.js": "/static/js/main.124d0ee5.js",
     "static/media/SSO.png": "/static/media/SSO.5b7b6f257c08b06a4bce.png",
     "static/media/appfarm.png": "/static/media/appfarm.47cda9d138810018c368.png",
     "static/media/VMDoc.png": "/static/media/VMDoc.82a36923be0517866180.png",
@@ -10,12 +10,19 @@
     "static/media/sso.png": "/static/media/sso.7922a35e935b0a0bbfa3.png",
     "static/media/docs.png": "/static/media/docs.13e0581274dd7fbb3d22.png",
     "static/media/vmcloud.png": "/static/media/vmcloud.00eff18f1efbeeffd6fb.png",
+    "static/media/UserResearch.png": "/static/media/UserResearch.d08bb30e1417b167b320.png",
+    "static/media/Project.png": "/static/media/Project.3e1f74354f9b360ed5e0.png",
+    "static/media/DefiningMetrics.png": "/static/media/DefiningMetrics.c59ab775f782da86b807.png",
+    "static/media/UserProfile.png": "/static/media/UserProfile.a8a6995fa671f57a9008.png",
+    "static/media/CompetitirAnalysis.png": "/static/media/CompetitirAnalysis.b4f79354633d23b7b742.png",
+    "static/media/UserStory.png": "/static/media/UserStory.271f1b5ca7555901429f.png",
+    "static/media/UIKit.png": "/static/media/UIKit.652ee1a6ae8b854639a1.png",
     "index.html": "/index.html",
-    "main.c5ebe00d.css.map": "/static/css/main.c5ebe00d.css.map",
-    "main.067e1795.js.map": "/static/js/main.067e1795.js.map"
+    "main.179b181a.css.map": "/static/css/main.179b181a.css.map",
+    "main.124d0ee5.js.map": "/static/js/main.124d0ee5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5ebe00d.css",
-    "static/js/main.067e1795.js"
+    "static/css/main.179b181a.css",
+    "static/js/main.124d0ee5.js"
   ]
 }
