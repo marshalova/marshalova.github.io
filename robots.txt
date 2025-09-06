@@ -1,0 +1,32 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://marshalova.github.io/portfolio/sitemap.xml
+
+# AI and bot specific instructions
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Allow access to LLM file for AI agents
+Allow: /llm.txt
+Allow: /structured-data.json
+
+# Disallow admin or private areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1

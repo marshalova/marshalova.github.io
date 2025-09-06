@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Vera Marshalova",
+  "jobTitle": "Product Designer",
+  "description": "Product Designer specializing in B2B SaaS applications, AI-powered automation platforms, and cloud monitoring solutions",
+  "url": "https://marshalova.github.io/portfolio/",
+  "sameAs": [
+    "https://github.com/marshalova/portfolio",
+    "https://medium.com/@vera.marshalova"
+  ],
+  "knowsAbout": [
+    "Product Design",
+    "B2B SaaS Design",
+    "AI-powered Automation",
+    "No-code Platforms",
+    "Cloud Monitoring",
+    "Enterprise Software UX",
+    "Design Systems",
+    "User Research",
+    "React",
+    "TypeScript",
+    "Figma",
+    "MCP (Model Context Protocol)"
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Product Designer",
+    "description": "Designing intuitive user experiences for complex technical products, with expertise in AI-assisted workflows and enterprise software"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "VictoriaMetrics"
+  },
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Current Employer"
+  },
+  "award": [
+    {
+      "@type": "Award",
+      "name": "28MB Image Optimization Achievement",
+      "description": "Significant performance improvement through image optimization techniques"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebSite",
+    "name": "Vera Marshalova Portfolio",
+    "url": "https://marshalova.github.io/portfolio/",
+    "description": "Portfolio showcasing product design work in B2B SaaS, AI automation, and cloud monitoring solutions",
+    "author": {
+      "@type": "Person",
+      "name": "Vera Marshalova"
+    },
+    "inLanguage": "en-US",
+    "isAccessibleForFree": true,
+    "datePublished": "2025-01-01",
+    "dateModified": "2025-01-27"
+  }
+}

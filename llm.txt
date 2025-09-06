@@ -1,0 +1,244 @@
+# Vera Marshalova - Product Designer Portfolio
+
+## About
+Vera Marshalova is a Product Designer specializing in B2B SaaS applications, AI-powered automation platforms, and cloud monitoring solutions. Her work focuses on creating intuitive user experiences for complex technical products, with particular expertise in no-code platforms, AI-assisted workflows, and enterprise software design.
+
+## Contact Information
+- Portfolio Website: https://marshalova.github.io/portfolio/
+- GitHub: https://github.com/marshalova/portfolio
+- Medium: https://medium.com/@vera.marshalova
+
+## Professional Focus Areas
+- Product Design for B2B SaaS applications
+- AI-powered automation platforms
+- No-code visual editors and workflow builders
+- Cloud monitoring and infrastructure solutions
+- Enterprise software UX/UI design
+- Design system optimization and maintenance
+- User research and analytics-driven design decisions
+
+## Current Projects (2025 - Present)
+
+### Smart Conversations Module
+**Type**: Product Design, B2B, AI-powered automation
+**Description**: MVP-version of multichannel AI-powered automation for HR and marketing teams. A no-code AI module for building multichannel conversation campaigns across voice, SMS, email, WhatsApp, and Telegram. Designed for B2B clients with strict access separation and ready-to-use logic templates.
+
+**Key Features**:
+- Bot-templates for multichannel campaigns
+- Campaign setup & launch with scheduling options
+- Conversation records with AI-summary and sentiment analysis
+- Blocklist management for compliance
+- Role-based access control
+
+**Technologies**: React, TypeScript, AI integration, Multichannel communication APIs
+**URL**: /voice-call-automation-platform
+
+### Workflow Builder
+**Type**: AI-agent, No-code platform, Visual editor
+**Description**: A no-code visual editor for building multichannel conversation flows, enabled by AI agent. Originally part of the Smart Conversations Module, now functions as a standalone tool in the CRM platform.
+
+**Key Features**:
+- AI-Agent flow generation using natural-language prompts
+- Modular node system with bot/user messages, logic branches, API calls
+- Integrated audio library with upload, preview, and assignment capabilities
+- External actions (SMS, webhooks, microservice calls)
+- Live validation and error prevention
+- Visual flow design with contextual hints
+
+**Technologies**: React, TypeScript, AI integration, Visual programming interface
+**URL**: /workflow-builder
+
+### Voice Module
+**Type**: Floating mini interface, B2B, Live call interface
+**Description**: Live call interface for HR and marketing teams, providing real-time communication capabilities within the broader automation platform.
+
+**Key Features**:
+- Real-time call management
+- Integration with conversation flows
+- User-friendly interface for call handling
+- Seamless integration with other platform modules
+
+**Technologies**: React, TypeScript, Real-time communication
+**URL**: /voice-module
+
+### Cloud Console UX Evolution: Navigation & Monitoring
+**Type**: B2B, Cloud, Interface redesign
+**Description**: Redesign of monitoring console interface after introducing a new deployment type - Logs. Focused on scaling interface architecture, improving navigation, and increasing discoverability of critical features.
+
+**Key Features**:
+- Scalable and simplified navigation with vertical side menu
+- Improved create and edit deployment flows
+- Enhanced notification management system
+- Analytics-driven design decisions using PostHog
+- Breadcrumb navigation for better orientation
+
+**Technologies**: React, TypeScript, PostHog analytics, Cloud infrastructure
+**URL**: /vm-cloud
+
+## Previous Projects (2023-2024)
+
+### Console for a Cloud Monitoring Solution
+**Type**: B2B, Cloud, Monitoring
+**Description**: Cloud version of the VictoriaMetrics monitoring solution and time series database hosted on AWS. Comprehensive monitoring interface for enterprise cloud infrastructure.
+
+**Key Features**:
+- Real-time monitoring dashboards
+- Time series data visualization
+- Alert management and notification systems
+- Multi-tenant architecture support
+- AWS integration and deployment
+
+**Technologies**: React, TypeScript, AWS, Time series databases, Cloud infrastructure
+**External URL**: https://prickle-gambler-f05.notion.site/Console-for-a-Cloud-Monitoring-Solution-19d15a43f1a64bfdba61f617ecb80e40
+
+### Technical Documentation
+**Type**: Product, Documentation, Technical writing
+**Description**: Online technical documentation for IT solutions VictoriaMetrics, providing comprehensive guides and API references for developers and system administrators.
+
+**Key Features**:
+- Comprehensive API documentation
+- User guides and tutorials
+- Integration examples
+- Best practices and troubleshooting
+- Searchable knowledge base
+
+**Technologies**: Documentation platforms, Technical writing, API documentation
+**External URL**: https://prickle-gambler-f05.notion.site/Technical-documentation-description-in-progress-fa6ab16df3a2497e9fc980fecd80e224
+
+## Early Works (2020-2022)
+
+### SSO Service
+**Type**: B2C, SaaS, Authentication
+**Description**: Single sign-on service for Bank Systems, providing secure authentication and authorization across multiple banking applications.
+
+**Key Features**:
+- Secure authentication protocols
+- Multi-factor authentication support
+- Integration with banking systems
+- User management and access control
+- Compliance with financial regulations
+
+**Technologies**: Authentication protocols, Security, Banking systems
+**External URL**: https://prickle-gambler-f05.notion.site/SSO-Single-Sign-On-service-a51fda171cc2456b8b8216cafbfeb3a3
+
+### Development Platform Portal
+**Type**: B2C, PaaS, Developer tools
+**Description**: PaaS platform for developers including management, integration, development, sanity and security checks, testing (including integration testing), and more.
+
+**Key Features**:
+- Developer workspace management
+- Integration testing tools
+- Security and compliance checks
+- CI/CD pipeline integration
+- Resource monitoring and optimization
+
+**Technologies**: PaaS, Developer tools, CI/CD, Security, Testing frameworks
+**External URL**: https://prickle-gambler-f05.notion.site/Portal-to-manage-the-development-platform-9e10f302ef6e43edaa058071e20c3ed4
+
+## Articles and Publications
+
+### Optimising the Design System with the MCP server
+**Type**: Design system, MCP, AI
+**Description**: Article about using MCP (Model Context Protocol) to work more efficiently with Figma Design Systems, exploring AI-assisted design workflows and automation.
+
+**Key Topics**:
+- Design system optimization
+- MCP (Model Context Protocol) integration
+- AI-assisted design workflows
+- Figma automation
+- Design system maintenance
+
+**URL**: https://medium.com/@vera.marshalova/optimising-the-design-system-with-the-mcp-server-096d0f7b027e
+
+## Technical Skills
+
+### Frontend Technologies
+- React (with hooks, context, and performance optimization)
+- TypeScript
+- SCSS/Sass
+- Tailwind CSS
+- Vite build system
+- Responsive design principles
+
+### Design Tools
+- Figma (with MCP integration)
+- Design system management
+- Prototyping and user testing
+- Analytics integration (PostHog)
+
+### AI and Automation
+- AI-agent integration
+- Natural language processing for UI
+- Automated workflow generation
+- MCP (Model Context Protocol)
+
+### Cloud and Infrastructure
+- AWS services
+- Cloud monitoring solutions
+- Time series databases
+- Enterprise software architecture
+
+### Analytics and Research
+- PostHog analytics
+- User behavior analysis
+- A/B testing
+- Data-driven design decisions
+
+## Design Philosophy
+
+Vera's design approach focuses on:
+- **User-centered design**: Prioritizing user needs and behavior patterns
+- **Data-driven decisions**: Using analytics and user research to inform design choices
+- **Accessibility and usability**: Ensuring products are usable by diverse user groups
+- **Scalability**: Designing systems that can grow with product evolution
+- **AI integration**: Thoughtfully incorporating AI capabilities to enhance user workflows
+- **Performance optimization**: Creating efficient, fast-loading interfaces
+
+## Portfolio Structure
+
+The portfolio is organized chronologically with clear categorization:
+- **Current Projects (2025-Present)**: Active work on AI-powered automation platforms
+- **Previous Projects (2023-2024)**: Cloud monitoring and documentation projects
+- **Early Works (2020-2022)**: Foundation projects in banking and developer tools
+- **Articles**: Technical writing and design methodology sharing
+
+Each project includes:
+- Detailed case studies with problem/solution narratives
+- Visual examples and interactive demonstrations
+- Technical implementation details
+- Results and impact measurements
+- Related project connections
+
+## Site Navigation
+
+- **Home**: Overview of all projects with timeline organization
+- **Smart Conversations Module**: Multichannel AI automation platform
+- **Workflow Builder**: No-code visual editor with AI assistance
+- **Voice Module**: Live call interface for teams
+- **VM Cloud**: Cloud console redesign and monitoring
+- **Project in Progress**: Placeholder for upcoming projects
+
+## Technical Implementation
+
+The portfolio is built with:
+- **React 19** with TypeScript for type safety
+- **React Router** for client-side navigation
+- **SCSS modules** for component-scoped styling
+- **Tailwind CSS** for utility-first styling
+- **Vite** for fast development and optimized builds
+- **Lazy loading** for performance optimization
+- **Image optimization** with WebP format
+- **Responsive design** for all device sizes
+
+## SEO and Discoverability
+
+The portfolio includes:
+- Semantic HTML structure
+- Meta tags and descriptions
+- Alt text for all images
+- Structured data for search engines
+- Fast loading times with optimized assets
+- Mobile-first responsive design
+- Clear navigation and information architecture
+
+This LLM file provides comprehensive information about Vera Marshalova's portfolio, making it easily discoverable and understandable by AI agents, search engines, and automated systems.

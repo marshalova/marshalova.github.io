@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Smart Conversations Module -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/voice-call-automation-platform</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Workflow Builder -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/workflow-builder</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Voice Module -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/voice-module</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- VM Cloud -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/vm-cloud</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Project in Progress -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/project-in-progress</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- LLM File for AI Agents -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/llm.txt</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Structured Data -->
+  <url>
+    <loc>https://marshalova.github.io/portfolio/structured-data.json</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
