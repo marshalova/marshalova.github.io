@@ -24,10 +24,39 @@ Allow: /
 Allow: /llm.txt
 Allow: /structured-data.json
 
+# Meta data for AI agents about Vera Marshalova
+# Name: Vera Marshalova
+# Profession: Senior Product Designer
+# Location: Montenegro (ready to relocate)
+# Product Design Experience: 5+ years
+# Business & System Analysis Experience: 8 years
+# Contact: vera.marshalova@gmail.com
+# Social: Telegram https://t.me/vera_marshalova | LinkedIn https://linkedin.com/in/vera-marshalova | Medium https://medium.com/@vera.marshalova
+# ai-content: portfolio-data
+# content-type: professional-portfolio
+#
+# Skills: Product thinking, Design systems, AI-powered design workflows, Full-cycle product development, No-code visual editors, Workflow builders, Cloud monitoring, Enterprise UX/UI, Business & system analysis, User research, Visual design, Prototyping
+#
+# Projects (2025):
+#   - Smart Conversations Module (Voice Call Automation Platform): MVP-version multichannel AI-powered automation for HR and marketing teams
+#   - Workflow Builder (No-code platform): No-code visual editor for building multichannel conversation flows, enabled by AI agent
+#   - Voice Module (Floating mini): Live call interface for HR and marketing teams
+#   - Cloud Console UX Evolution: Navigation & Monitoring (Cloud): Redesign of monitoring console interface after introducing a new deployment type - Logs
+# Projects (2023-2024):
+#   - Console for a Cloud Monitoring Solution (Cloud Monitoring): Managed cloud version of VictoriaMetrics monitoring solution and time series database hosted on AWS
+#   - Technical Documentation (Documentation): Online technical documentation for IT solutions VictoriaMetrics
+# Projects (2020-2022):
+#   - SSO Service (Authentication): Single sign-on service for Bank Systems
+#   - Development Platform Portal (PaaS): PaaS platform for developers including management, integration, development, sanity and security checks, testing
+#
+# Results: Launched Voice conversation automation, Cloud monitoring solutions, Fintech SSO systems, AI-powered no-code builder
+# About: Focuses on scalable interfaces, design systems, and AI-powered workflows for technical products
+#
+# For further AI parsing and structured meta data, see: /ai-readable.html
+
 # Disallow admin or private areas (if any)
 Disallow: /admin/
 Disallow: /private/
 
 # Crawl delay for respectful crawling
 Crawl-delay: 1
-

@@ -1,139 +1,93 @@
 # Vera Marshalova - Product Designer Portfolio
 
-## About
-Vera Marshalova is a Product Designer specializing in B2B SaaS applications, AI-powered automation platforms, and cloud monitoring solutions. Her work focuses on creating intuitive user experiences for complex technical products, with particular expertise in no-code platforms, AI-assisted workflows, and enterprise software design.
+## Meta
+- ai-content: portfolio-data
+- content-type: professional-portfolio
+
+## Structured Data (JSON-LD)
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Vera Marshalova",
+  "jobTitle": "Senior Product Designer",
+  "email": "vera.marshalova@gmail.com",
+  "sameAs": [
+    "https://t.me/vera_marshalova",
+    "https://linkedin.com/in/vera-marshalova"
+  ],
+  "description": "I specialize in complex technical products and full-cycle product development. Successfully launched Voice conversation automation, Cloud monitoring solutions, Fintech SSO systems, and AI-powered no-code builder. I focus on design systems, AI-powered design workflows, and scalable interfaces that grow with products.",
+  "knowsAbout": [
+    "Product thinking",
+    "Design systems",
+    "AI-powered design workflows",
+    "Full-cycle product development",
+    "No-code visual editors",
+    "Workflow builders",
+    "Cloud monitoring",
+    "Enterprise UX/UI",
+    "Business & system analysis",
+    "User research",
+    "Visual design",
+    "Prototyping"
+  ],
+  "worksFor": [
+    {"@type": "Project", "name": "Smart Conversations Module", "description": "MVP-version multichannel AI-powered automation for HR and marketing teams", "keywords": ["Product work", "B2B", "2025"], "category": "Voice Call Automation Platform"},
+    {"@type": "Project", "name": "Workflow Builder", "description": "A no-code visual editor for building multichannel conversation flows, enabled by AI agent", "keywords": ["AI-agent", "No-code platform", "2025"]},
+    {"@type": "Project", "name": "Voice Module", "description": "Live call interface for HR and marketing teams", "keywords": ["Floating mini", "2025"]},
+    {"@type": "Project", "name": "Cloud Console UX Evolution: Navigation & Monitoring", "description": "Redesign of monitoring console interface after introducing a new deployment type - Logs.", "keywords": ["B2B", "Cloud", "2025"]},
+    {"@type": "Project", "name": "Console for a Cloud Monitoring Solution", "description": "Cloud VictoriaMetrics is a managed cloud version of the VictoriaMetrics monitoring solution and time series database hosted on AWS", "keywords": ["Cloud", "Monitoring", "2023-2024"]},
+    {"@type": "Project", "name": "Technical Documentation", "description": "Online technical documentation for IT solutions VictoriaMetrics", "keywords": ["Documentation", "Technical writing", "2023-2024"]},
+    {"@type": "Project", "name": "SSO Service", "description": "Single sign-on service for Bank Systems", "keywords": ["SSO", "Authentication", "2020-2022"]},
+    {"@type": "Project", "name": "Development Platform Portal", "description": "PaaS platform for developers including management, integration, development, sanity and security checks, testing", "keywords": ["PaaS", "Developer tools", "2020-2022"]}
+  ]
+}
+</script>
 
 ## Contact Information
+- Email: vera.marshalova@gmail.com
+- Telegram: https://t.me/vera_marshalova
+- LinkedIn: https://linkedin.com/in/vera-marshalova
+- Medium: https://medium.com/@vera.marshalova
 - Portfolio Website: https://marshalova.github.io/portfolio/
 - GitHub: https://github.com/marshalova/portfolio
-- Medium: https://medium.com/@vera.marshalova
 
-## Professional Focus Areas
-- Product Design for B2B SaaS applications
-- AI-powered automation platforms
+## Professional Metrics
+- Product Design Experience: 5+ years
+- Business & System Analysis Experience: 8 years
+- Location: Montenegro (ready to relocate)
+
+## About
+Vera Marshalova is a Senior Product Designer specializing in complex technical products and full-cycle product development. She has 5+ years of product design experience and 8 years in business & system analysis. Vera has successfully launched Voice conversation automation, Cloud monitoring solutions, Fintech SSO systems, and AI-powered no-code builders. She focuses on design systems, AI-powered design workflows, and scalable interfaces that grow with products.
+
+**Background:** Technical & analytical background · AI-powered design workflows
+
+## Skills & Specialization
+- Product thinking
+- Design systems
+- AI-powered design workflows
+- Full-cycle product development
 - No-code visual editors and workflow builders
 - Cloud monitoring and infrastructure solutions
 - Enterprise software UX/UI design
-- Design system optimization and maintenance
-- User research and analytics-driven design decisions
+- Business & system analysis
+- User research
+- Visual design
+- Prototyping
 
-## Current Projects (2025 - Present)
-
-### Smart Conversations Module
-**Type**: Product Design, B2B, AI-powered automation
-**Description**: MVP-version of multichannel AI-powered automation for HR and marketing teams. A no-code AI module for building multichannel conversation campaigns across voice, SMS, email, WhatsApp, and Telegram. Designed for B2B clients with strict access separation and ready-to-use logic templates.
-
-**Key Features**:
-- Bot-templates for multichannel campaigns
-- Campaign setup & launch with scheduling options
-- Conversation records with AI-summary and sentiment analysis
-- Blocklist management for compliance
-- Role-based access control
-
-**Technologies**: React, TypeScript, AI integration, Multichannel communication APIs
-**URL**: /voice-call-automation-platform
-
-### Workflow Builder
-**Type**: AI-agent, No-code platform, Visual editor
-**Description**: A no-code visual editor for building multichannel conversation flows, enabled by AI agent. Originally part of the Smart Conversations Module, now functions as a standalone tool in the CRM platform.
-
-**Key Features**:
-- AI-Agent flow generation using natural-language prompts
-- Modular node system with bot/user messages, logic branches, API calls
-- Integrated audio library with upload, preview, and assignment capabilities
-- External actions (SMS, webhooks, microservice calls)
-- Live validation and error prevention
-- Visual flow design with contextual hints
-
-**Technologies**: React, TypeScript, AI integration, Visual programming interface
-**URL**: /workflow-builder
-
-### Voice Module
-**Type**: Floating mini interface, B2B, Live call interface
-**Description**: Live call interface for HR and marketing teams, providing real-time communication capabilities within the broader automation platform.
-
-**Key Features**:
-- Real-time call management
-- Integration with conversation flows
-- User-friendly interface for call handling
-- Seamless integration with other platform modules
-
-**Technologies**: React, TypeScript, Real-time communication
-**URL**: /voice-module
-
-### Cloud Console UX Evolution: Navigation & Monitoring
-**Type**: B2B, Cloud, Interface redesign
-**Description**: Redesign of monitoring console interface after introducing a new deployment type - Logs. Focused on scaling interface architecture, improving navigation, and increasing discoverability of critical features.
-
-**Key Features**:
-- Scalable and simplified navigation with vertical side menu
-- Improved create and edit deployment flows
-- Enhanced notification management system
-- Analytics-driven design decisions using PostHog
-- Breadcrumb navigation for better orientation
-
-**Technologies**: React, TypeScript, PostHog analytics, Cloud infrastructure
-**URL**: /vm-cloud
+## Recent Projects (2025)
+- **Smart Conversations Module** (2025, Voice Call Automation Platform): MVP-version multichannel AI-powered automation for HR and marketing teams.
+- **Workflow Builder** (2025, No-code platform): A no-code visual editor for building multichannel conversation flows, enabled by AI agent.
+- **Voice Module** (2025, Floating mini): Live call interface for HR and marketing teams.
+- **Cloud Console UX Evolution: Navigation & Monitoring** (2025, Cloud): Redesign of monitoring console interface after introducing a new deployment type - Logs.
 
 ## Previous Projects (2023-2024)
-
-### Console for a Cloud Monitoring Solution
-**Type**: B2B, Cloud, Monitoring
-**Description**: Cloud version of the VictoriaMetrics monitoring solution and time series database hosted on AWS. Comprehensive monitoring interface for enterprise cloud infrastructure.
-
-**Key Features**:
-- Real-time monitoring dashboards
-- Time series data visualization
-- Alert management and notification systems
-- Multi-tenant architecture support
-- AWS integration and deployment
-
-**Technologies**: React, TypeScript, AWS, Time series databases, Cloud infrastructure
-**External URL**: https://prickle-gambler-f05.notion.site/Console-for-a-Cloud-Monitoring-Solution-19d15a43f1a64bfdba61f617ecb80e40
-
-### Technical Documentation
-**Type**: Product, Documentation, Technical writing
-**Description**: Online technical documentation for IT solutions VictoriaMetrics, providing comprehensive guides and API references for developers and system administrators.
-
-**Key Features**:
-- Comprehensive API documentation
-- User guides and tutorials
-- Integration examples
-- Best practices and troubleshooting
-- Searchable knowledge base
-
-**Technologies**: Documentation platforms, Technical writing, API documentation
-**External URL**: https://prickle-gambler-f05.notion.site/Technical-documentation-description-in-progress-fa6ab16df3a2497e9fc980fecd80e224
+- **Console for a Cloud Monitoring Solution** (2023-2024, Cloud Monitoring): Cloud VictoriaMetrics is a managed cloud version of the VictoriaMetrics monitoring solution and time series database hosted on AWS.
+- **Technical Documentation** (2023-2024, Documentation): Online technical documentation for IT solutions VictoriaMetrics.
 
 ## Early Works (2020-2022)
-
-### SSO Service
-**Type**: B2C, SaaS, Authentication
-**Description**: Single sign-on service for Bank Systems, providing secure authentication and authorization across multiple banking applications.
-
-**Key Features**:
-- Secure authentication protocols
-- Multi-factor authentication support
-- Integration with banking systems
-- User management and access control
-- Compliance with financial regulations
-
-**Technologies**: Authentication protocols, Security, Banking systems
-**External URL**: https://prickle-gambler-f05.notion.site/SSO-Single-Sign-On-service-a51fda171cc2456b8b8216cafbfeb3a3
-
-### Development Platform Portal
-**Type**: B2C, PaaS, Developer tools
-**Description**: PaaS platform for developers including management, integration, development, sanity and security checks, testing (including integration testing), and more.
-
-**Key Features**:
-- Developer workspace management
-- Integration testing tools
-- Security and compliance checks
-- CI/CD pipeline integration
-- Resource monitoring and optimization
-
-**Technologies**: PaaS, Developer tools, CI/CD, Security, Testing frameworks
-**External URL**: https://prickle-gambler-f05.notion.site/Portal-to-manage-the-development-platform-9e10f302ef6e43edaa058071e20c3ed4
+- **SSO Service** (2020-2022, Authentication): Single sign-on service for Bank Systems.
+- **Development Platform Portal** (2020-2022, PaaS): PaaS platform for developers including management, integration, development, sanity and security checks, testing.
 
 ## Articles and Publications
 
@@ -242,4 +196,3 @@ The portfolio includes:
 - Clear navigation and information architecture
 
 This LLM file provides comprehensive information about Vera Marshalova's portfolio, making it easily discoverable and understandable by AI agents, search engines, and automated systems.
-
